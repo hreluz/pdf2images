@@ -1,3 +1,4 @@
 .venv
-pages
 my_document.pdf
+converted_pdfs
+.env
